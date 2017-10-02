@@ -1,0 +1,16 @@
+Node notes
+Tutorial 1:
+1. node.js server side application
+2. php is another way for server side application
+3. node.js is good for real-time stuff
+4. php is slow
+5. Install node.js
+6. run the program using node something.js
+7. console.log -> output the result to the terminal
+
+Tutorial 2: Basic concepts
+1. printing a variable
+2. Add two numbers
+3. Can pass a function to a variable, Print the variable like a function or pass the variable to a function, you can print the variable multiple number of times. example timeout message.
+
+1. Use the exports keyword to make properties and methods available outside the module file.
